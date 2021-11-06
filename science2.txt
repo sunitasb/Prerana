@@ -1,0 +1,39 @@
+<HTML>
+<body bgcolor="pink">
+<h1><center> ವಿಜ್ಞಾನ  </center> <h1>
+<h3> Learning Cards</h3>
+<ul>
+<li><a href = "https://drive.google.com/file/d/12PxAf4AjNzRO7dj3LUEMmzCY-C5Nany6/view?usp=sharing">Learning Card 1</a></li>
+<li><a href = "https://drive.google.com/file/d/1aauKE4lWG7E6-i_bj2DS6roUiLxYfcsD/view?usp=sharing">Learning Card 2</a></li>
+<li><a href = "https://drive.google.com/file/d/1PHPfQ17aSMcIvR49R1loT6qJWUp6yGEI/view?usp=sharing">Learning Card 3</a></li>
+<li><a href = "https://drive.google.com/file/d/1CSvISLwIhjX0BhG10H1wgf9wU2e3tUeY/view?usp=sharing">Learning Card 4</a></li>
+<li><a href = "https://drive.google.com/file/d/1FoZk6R7HwAwC9vd2Ifw7hJSRtZifEgso/view?usp=sharing">Learning Card 5</a></li>
+<li><a href = "https://drive.google.com/file/d/1KRLv7YdT8gx6vu5SfiYC1zIIiEbRm0W6/view?usp=sharing">Learning Card 6</a></li>
+<li><a href = "https://drive.google.com/file/d/1gZnnvWPkdnVflINZnKn5DEzvWxdmH06Q/view?usp=sharing">Learning Card 7</a></li>
+<li><a href = "https://drive.google.com/file/d/1IbVZNjDA0JLpf_jcQ4KUP5z22Mx72fS8/view?usp=sharing">Learning Card 8</a></li>
+</ul>
+<h3> Experiments</h3>
+<ul>
+<li><a href = "https://drive.google.com/file/d/1ZPKbQ_CzpRIMnxIn1RkJqzkyVNbc1mqA/view?usp=sharing">Experiment 1</a></li>
+<li><a href = "https://drive.google.com/file/d/1495bIASWe3CwosYI4W_3ibJMPHMm3TLa/view?usp=sharing">Experiment 2</a></li>
+<li><a href = "https://drive.google.com/file/d/1GECKGCeBFf8VBRYh6J9oGtKwRVGbVVHu/view?usp=sharing">Experiment 3</a></li>
+<li><a href = "https://drive.google.com/file/d/1KYvfv6fzbR40Lc9grM6jU2gZWgPApzkA/view?usp=sharing">Experiment 4</a></li>
+<li><a href = "https://drive.google.com/file/d/1m7VLZ3qznQMsKBnW2oZb57Q2cRuh1SQP/view?usp=sharing">Experiment 5</a></li>
+<li><a href = "https://drive.google.com/file/d/1fXRiQu5r66R0yEDWKsxJgJJ6hKNWWdaJ/view?usp=sharing">Experiment 6</a></li>
+<li><a href = "https://drive.google.com/file/d/1TE6h4qXRoKxCkZc6UpLT1Ew--dxK4OVG/view?usp=sharing">Experiment 7</a></li>
+<li><a href = "https://drive.google.com/file/d/1aJmgb8zVYyAa8nXBBFW6kvy8B9uacBlS/view?usp=sharing">Experiment 8</a></li>
+<li><a href = "https://drive.google.com/file/d/16oQNUz2oO2vljIVVK3M_XjP0awZJ9cb-/view?usp=sharing">Experiment 9</a></li>
+<li><a href = "https://drive.google.com/file/d/1aoBCGJaIK4zXIdHBfMSlI_GeiNAkTAqo/view?usp=sharing">Experiment 10</a></li>
+</ul>
+<h3>Stories</h3>
+<ul>
+<li><a href="https://drive.google.com/file/d/1N4E17bCqXQnWIJZEd1zSwxmqtaff0lVb/view?usp=sharing">Story 1</a></li>
+<li><a href="https://drive.google.com/file/d/17uEJls_4bG3J7Whc8iD_reytM1MJoZls/view?usp=sharing">Story 2 </a></li>
+</ul>
+<h3>Learning Outcomes</h3>
+<ul>
+<li><a href="https://drive.google.com/file/d/1c_9BHAij1G5I1FXTDRD6WquJHygNsJDa/view?usp=sharing">Outcome 1</a></li>
+<li><a href="https://drive.google.com/file/d/1CBwJjGsSuS4Ugdnan_x8-yrsJWKfGKt7/view?usp=sharing">Outcome 2</a></li>
+</ul>
+</body>
+</HTML>

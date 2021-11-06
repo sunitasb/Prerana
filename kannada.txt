@@ -1,0 +1,17 @@
+<HTML>
+<body bgcolor="cornsilk">
+<h1><center> ಕನ್ನಡ  </center> <h1>
+<h3> Learning Cards</h3>
+<ul>
+<li><a href = "https://drive.google.com/file/d/1cc7Bl2MEGmNlhmAUYq6DKTIBIqJME6N5/view?usp=sharing">Learning Card 1</a></li>
+<li><a href = "https://drive.google.com/file/d/16RC8sobipyV3J3O6aybqQsi0Er_S0Kp_/view?usp=sharing">Learning Card 2</a></li>
+<li><a href = "https://drive.google.com/file/d/11xMbZlsvMVh5qKeLLBcLJzq8MPgW4QBo/view?usp=sharing">Learning Card 3</a></li>
+<li><a href = "https://drive.google.com/file/d/1Fc_frcRKc7kgWZ0E0xmkiL5ENtWlH2qE/view?usp=sharing">Learning Card 4</a></li>
+</ul>
+<h3>Learning Outcomes</h3>
+<ul>
+<li><a href="">Outcome 1</a></li>
+<li><a href="">Outcome 2</a></li>
+</ul>
+</body>
+</HTML>

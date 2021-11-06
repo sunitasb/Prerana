@@ -1,0 +1,17 @@
+<HTML>
+<body bgcolor="lime">
+<h1><center> ಪರಿಸರ ಅಧ್ಯಯನ </center> <h1>
+<h3> Learning Cards</h3>
+<ul>
+<li><a href = "https://drive.google.com/file/d/1OPa11wtzwJi1im6EyOIKdugYEXGVrlOs/view?usp=sharing">Learning Card 1</a></li>
+<li><a href = "https://drive.google.com/file/d/1m7_91nFwztMowQha7sP2crA5W0OgewQU/view?usp=sharing">Learning Card 2</a></li>
+<li><a href = "https://drive.google.com/file/d/17vNTIXj3huhU8891-l0wVdXDcjtVfqkL/view?usp=sharing">Learning Card 3</a></li>
+<li><a href = "https://drive.google.com/file/d/10HTHC_xsXXEWVMKifDs1vAbQpL5ZUQOy/view?usp=sharing">Learning Card 4</a></li>
+</ul>
+<h3>Learning Outcomes</h3>
+<ul>
+<li><a href="">Outcome 1</a></li>
+<li><a href="">Outcome 2</a></li>
+</ul>
+</body>
+</HTML>

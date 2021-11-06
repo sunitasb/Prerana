@@ -1,0 +1,15 @@
+<HTML>
+<head>
+<title> Class 3 </title>
+</head>
+<body bgcolor="darkturquoise">
+<h1><center> ತರಗತಿ - ೩   </center> <h1>
+<h3> Learning Cards </h3>
+<ul>
+<li><a href = "">Learning Card 1</a></li>
+<li><a href = "">Learning Card 2</a></li>
+<li><a href = "">Learning Card 3</a></li>
+<li><a href = "">Learning Card 4</a></li>
+</ul>
+</body>
+</HTML>

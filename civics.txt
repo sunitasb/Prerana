@@ -1,0 +1,12 @@
+<HTML>
+<head>
+<title> Civics </title>
+</head>
+<body bgcolor="silver">
+<h1><center> ಪೌರನೀತಿ  </center> <h1>
+<h3> Chapters </h3>
+<ul>
+<li><a href = "">Lesson 1</a></li>
+</ul>
+</body>
+</HTML>

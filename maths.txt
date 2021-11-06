@@ -1,0 +1,25 @@
+<html>
+<body bgcolor= "aqua">
+<h1><center> Mathematics </center> <h1>
+<h3><u>Learning Cards</u></h3>
+<ul>
+<li><a href="https://drive.google.com/file/d/1SGzIkwVfB6NOfEOi6crlfrdQjE6ovw5s/view?usp=sharing">ಮೋಜಿನ ಗಣಿತ ೧ </li>
+<li><a href="https://drive.google.com/file/d/1izo2jl8fuE32JFFoTN1qir-fizdyhO6Y/view?usp=sharing">ಮೋಜಿನ ಗಣಿತ ೨ </li>
+<li><a href="https://drive.google.com/file/d/1MBmWdvBpUdRSQ2ngW2fv0anXEOPYTQRe/view?usp=sharing">ಮೋಜಿನ ಗಣಿತ  ೩ </li>
+<li><a href="https://drive.google.com/file/d/1CdGAaY_rqotjwENjNbhgEofa_6NfaAUA/view?usp=sharing">ಮೋಜಿನ ಗಣಿತ  ೪ </li>
+<li><a href="https://drive.google.com/file/d/1YY-cEkvRua50e2z5yMd0b76xqEJ6weqB/view?usp=sharing">ಮೋಜಿನ ಗಣಿತ  ೫ </li>
+</ul>
+<h3><Font color = "black">Experiments</h3></font>
+<ul>
+<li><a href="https://drive.google.com/file/d/1UDyiA7AF64EEhC-9Yb2eH_PjpOX1tok0/view?usp=sharing">Experiment 1</li>
+<li><a href="https://drive.google.com/file/d/1_KVt46Nr6RqOppjok_97H-fosiHxIZQJ/view?usp=sharing">Experiment 2</li>
+<li><a href="https://drive.google.com/file/d/1_02dvZvuxGSQm-EMgY03yslIWalMl8cC/view?usp=sharing">Experiment 3</li>
+<li><a href="https://drive.google.com/file/d/1PE0RnhVpb1gJrlQ_fO7tBRETBcwRI5Vu/view?usp=sharing">Experiment 4</li>
+</ul>
+<h3><Font color = "black">Learning Outcomes</h3></font>
+<ul>
+<li><a href="">Outcome 1</a></li>
+<li><a href="">Outcome 2</a></li>
+</ul>
+</body>
+</html>
